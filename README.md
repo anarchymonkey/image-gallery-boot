@@ -3,4 +3,4 @@ A simple responsive image gallery made by bootstrap as a basic project [This if 
 
 
 
-To View The Project Simply go to @ https://anarchymonkey.github.io/image-gallery-boot/ImageGallery.html
+To View The Project Simply go to @ https://anarchymonkey.github.io/image-gallery-boot/index.html
